@@ -1,0 +1,22 @@
+SMAP
+createAccount_jsp.java
+JSP
+*S JSP
+*F
++ 0 createAccount.jsp
+createAccount.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,90:50
+5#1,146:140
+151,2:286,3
+153,32:292
+94#0,5:323
+99:328,3
+100,105:331
+5#2,164:436
+204#0,4:599
+*E

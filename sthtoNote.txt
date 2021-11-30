@@ -1,0 +1,4 @@
+lấy dữ liệu sql để ném project : V 
+
+
+https://eitguide.net/export-database-sql-server-ra-file-sql/
